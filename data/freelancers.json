@@ -383,5 +383,16 @@
       "skills": ["AWS", "Terraform/AWS CDK/Ansible", "Kubernetes", "GitOps", "ArgoCD/Helm", "Github/Gitlab", "Datadog/Grafana", "Python/Node/Go"],
       "availability_hours_week": {"min": 1, "max": 20},
       "pricing_model": "Hourly rate: €80–€120/h, depending on project length"
-   }
+   },
+    {
+      "slack_name": "@Raul",
+      "slack_member_id": "U07LVP31DA5",
+      "full_name": "Raúl Murciano",
+      "web": "https://raulmurciano.com",
+      "linkedin_handler": "raulmurciano",
+      "services": "Web development mainly using Ruby and Ruby on Rails at any stage of a project: initial prototypes, MVPs, feature development, refactorings/tech debt clean-up, maintenance, version upgrades, rescue missions...",
+      "skills": ["Ruby", "Ruby on Rails", "Databases", "Cloud services", "Software Architecture"],
+      "availability_hours_week": {"min": 1, "max": 15},
+      "pricing_model": "Hourly rate: Depends on the project's needs – let's talk, no strings attached!"
+    }
 ]
